@@ -1,0 +1,6 @@
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:10:06.424626
+
+[HTTP请求] GET http://www.google.com/gen_204
+时间: 2025-05-28T17:10:09.864728

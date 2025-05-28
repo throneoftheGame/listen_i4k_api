@@ -1,0 +1,130 @@
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:11:58.915732
+
+[HTTP请求] GET http://play.googleapis.com/generate_204
+时间: 2025-05-28T17:12:01.872968
+
+[HTTP请求] GET http://43.143.112.172:8168/4k/getlist.php?calss=%E5%8A%A8%E6%BC%AB&area=&year=&type=&pg=0
+时间: 2025-05-28T17:12:07.042211
+查询参数: {
+  "calss": "动漫",
+  "area": "",
+  "year": "",
+  "type": "",
+  "pg": "0"
+}
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:12:12.904805
+[响应] 204 No Content
+============================================================
+
+[HTTP请求] GET http://play.googleapis.com/generate_204
+时间: 2025-05-28T17:12:13.677030
+
+[HTTP请求] GET http://43.143.112.172:8168/4k/getlist.php?calss=%E5%8A%A8%E6%BC%AB&area=&year=&type=&pg=0
+时间: 2025-05-28T17:12:25.730411
+查询参数: {
+  "calss": "动漫",
+  "area": "",
+  "year": "",
+  "type": "",
+  "pg": "0"
+}
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:12:25.768052
+
+[HTTP请求] GET http://43.143.112.172:8168/4k/getlist.php?calss=%E5%8A%A8%E6%BC%AB&area=&year=&type=&pg=0
+时间: 2025-05-28T17:12:28.697976
+查询参数: {
+  "calss": "动漫",
+  "area": "",
+  "year": "",
+  "type": "",
+  "pg": "0"
+}
+
+[HTTP请求] GET http://play.googleapis.com/generate_204
+时间: 2025-05-28T17:12:28.702945
+[响应] 200 OK
+响应体: [{"id":"896016","title":"奇迹女孩","pic":"https:\/\/img3.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2915734212.jpg","year":"2024","remarks":"4K 杜比"},{"id":"896015","title":"瑞克和莫蒂 第八季","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921042009.jpg","year":"2025","remarks":"1080P"},{"id":"896014","title":"圣诞节的大冒险","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2914772970.jpg","year":"2024","remarks":"1080P"},{"id":"896013","title":"灵笼 第二季","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2900568479.webp","year":"2025","remarks":"4K"},{"id":"895012","title":"万能恋爱杂货店","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2900559068.jpg","year":"2023","remarks":"4K"},{"id":"895011","title":"虫王战队超王者：冒险天堂","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921399598.jpg","year":"2023","remarks":"4K"},{"id":"895010","title":"外星人沐沐","pic":"https:\/\/img2.doubanio.com\/v...
+============================================================
+
+[HTTP请求] GET http://43.143.112.172:8168/4k/getlist.php?calss=%E5%8A%A8%E6%BC%AB&area=&year=&type=&pg=0
+时间: 2025-05-28T17:12:29.264985
+查询参数: {
+  "calss": "动漫",
+  "area": "",
+  "year": "",
+  "type": "",
+  "pg": "0"
+}
+[响应] 200 OK
+响应体: [{"id":"896016","title":"奇迹女孩","pic":"https:\/\/img3.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2915734212.jpg","year":"2024","remarks":"4K 杜比"},{"id":"896015","title":"瑞克和莫蒂 第八季","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921042009.jpg","year":"2025","remarks":"1080P"},{"id":"896014","title":"圣诞节的大冒险","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2914772970.jpg","year":"2024","remarks":"1080P"},{"id":"896013","title":"灵笼 第二季","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2900568479.webp","year":"2025","remarks":"4K"},{"id":"895012","title":"万能恋爱杂货店","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2900559068.jpg","year":"2023","remarks":"4K"},{"id":"895011","title":"虫王战队超王者：冒险天堂","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921399598.jpg","year":"2023","remarks":"4K"},{"id":"895010","title":"外星人沐沐","pic":"https:\/\/img2.doubanio.com\/v...
+============================================================
+
+[HTTP请求] GET http://43.143.112.172:8168/4k/getinfo.php?id=896013
+时间: 2025-05-28T17:12:31.771537
+查询参数: {
+  "id": "896013"
+}
+[响应] 200 OK
+响应体: [{"id":"896013","title":"灵笼 第二季","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2900568479.webp","calss":"动漫","area":"内地","year":"2025","type":"动作 科幻 动画 ","actor":"夏一可 图特哈蒙 藤新 季冠霖 ","plot":"    数百年前，欲望催生了几乎灭绝人类的玛娜生态。人类瞬间沦为猎物，文明毁灭殆尽，末日中猜忌和恐惧拉开了人与人之间的距离。灾难当前，人们逐渐意识到：情感——这个被灯塔视为禁忌的存在，如今成为突破一切障碍、构建命运共同体的最强纽带。已被逼至绝境的幸存者们能否重夺未来?","remarks":"4K","pinyin":"lldej"}]
+============================================================
+
+[HTTP请求] GET http://43.143.112.172:8168/aliyun/getlist.php?uid=yutian&ukey=lei072095&id=896013&fileid=null&marker=null&token=null&from=
+时间: 2025-05-28T17:12:31.944464
+查询参数: {
+  "uid": "yutian",
+  "ukey": "lei072095",
+  "id": "896013",
+  "fileid": "null",
+  "marker": "null",
+  "token": "null",
+  "from": ""
+}
+[响应] 200 OK
+响应体: {"from":"aliyun","total":5,"fileid":"671312344b6ca6f34b7741c4b441aa9d7fe288ca","marker":"null","token":"1fcbea5fbfd6d1e9342804c943fe43c3fe95779fb611af21951f00ad7beffbe931d87d22b23cac7872ef9b043d68d56ff54559ff2946628a2f4006e97025c544f976d128c7a6ba369b12ea3a78621312e951c5b52a55a13770d2a99cb42daf7ca45788c090bdf192f403f6455d13d42dc7f2c4eeeb7b243b902848ec68e5438aed19d99e7d2cb0b59f51044ea181db9825832181fa3f341de35a859409c613994a50292099f18c6dd0f10df5b1f4defd0d7b264fa3d34e5bf05c4898001b24a5a53d77da3a456a880fba0878f6381cbcc33adeb7d19c3a622686a5c6536c20ab89558a10503eb239b2a5fd9af5e733f5a805b8321e325d92cb102e85e911c169c4d69e79265117e6e5f588bd5db4c498474af6046f17b092ac13f807f3b8dc1358f432c3f82aede74017a4aac4a76c52adb3cf2ab0584d6f591c7669a0f00e5fbdabaff779f4e8cd73b182c3bdb691924283611183f6fdc4c9ac269a216033f65eac97607668a9c83e550c9f77005df2352483467eb64aafd19055250075d58682ae1b067b7bcd74f79887687f829c6a08fcadbd7fbb80e6e60d97cb544bbc9f6d7e1fb80f229a8032e09c3f5847d28d7c6610aa2cb82d3a4f28e1a275a06b53...
+============================================================
+
+[HTTP请求] GET http://43.143.112.172:8168/aliyun/api.php?from=xiaobai&uid=yutian&ukey=lei072095&type=0&share_id=11dfcd7285c2e6ea3f7934&file_id=682fecbc3470c2fa3ef5494fab209dc62de5ae3d&drive_id=4d809302eea081b1&appid=1020240302
+时间: 2025-05-28T17:12:34.251682
+查询参数: {
+  "from": "xiaobai",
+  "uid": "yutian",
+  "ukey": "lei072095",
+  "type": "0",
+  "share_id": "11dfcd7285c2e6ea3f7934",
+  "file_id": "682fecbc3470c2fa3ef5494fab209dc62de5ae3d",
+  "drive_id": "4d809302eea081b1",
+  "appid": "1020240302"
+}
+[响应] 200 OK
+响应体: {"type":"0","url":"https:\/\/cn-beijing-data.aliyundrive.net\/kB869cMH%2F889036%2F682feb616199780d9a4c472b85300752445328b4%2F682feb61aee4515451ce4576bd8da990cfc049d2?callback=eyJjYWxsYmFja1VybCI6Imh0dHA6Ly9iajI5LmFwaS1ocC5hbGl5dW5wZHMuY29tL3YyL2ZpbGUvZG93bmxvYWRfY2FsbGJhY2siLCJjYWxsYmFja0JvZHkiOiJodHRwSGVhZGVyLnJhbmdlPSR7aHR0cEhlYWRlci5yYW5nZX1cdTAwMjZidWNrZXQ9JHtidWNrZXR9XHUwMDI2b2JqZWN0PSR7b2JqZWN0fVx1MDAyNmRvbWFpbl9pZD0ke3g6ZG9tYWluX2lkfVx1MDAyNnVzZXJfaWQ9JHt4OnVzZXJfaWR9XHUwMDI2ZHJpdmVfaWQ9JHt4OmRyaXZlX2lkfVx1MDAyNmZpbGVfaWQ9JHt4OmZpbGVfaWR9XHUwMDI2cGRzX3BhcmFtcz0ke3g6cGRzX3BhcmFtc31cdTAwMjZ2ZXJzaW9uPSR7eDp2ZXJzaW9ufSIsImNhbGxiYWNrQm9keVR5cGUiOiJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiLCJjYWxsYmFja1N0YWdlIjoiYmVmb3JlLWV4ZWN1dGUiLCJjYWxsYmFja0ZhaWx1cmVBY3Rpb24iOiJpZ25vcmUifQ%3D%3D&callback-var=eyJ4OmRvbWFpbl9pZCI6ImJqMjkiLCJ4OnVzZXJfaWQiOiJkZTc2ZDE4ODQzM2U0MThjOWY3NWJkNDk4YWE3YWRjNiIsIng6ZHJpdmVfaWQiOiI3ODI1NTY2IiwieDpmaWxlX2lkIjoiNjgzNmQwYzcyMWQ2ZDgxNjhhMTY0OGVhOGYyMDQwYzExZDQ...
+============================================================
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:12:42.736337
+
+[HTTP请求] GET http://www.google.com/gen_204
+时间: 2025-05-28T17:12:45.721416
+[响应] 204 No Content
+============================================================
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:13:00.769448
+[响应] 204 No Content
+============================================================
+
+[HTTP请求] GET http://play.googleapis.com/generate_204
+时间: 2025-05-28T17:13:03.756846
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:13:29.804479
+[响应] 204 No Content
+============================================================
+
+[HTTP请求] GET http://www.google.com/gen_204
+时间: 2025-05-28T17:13:30.510649

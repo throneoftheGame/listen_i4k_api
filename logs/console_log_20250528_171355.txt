@@ -1,0 +1,45 @@
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:14:12.837619
+[响应] 204 No Content
+============================================================
+
+[HTTP请求] GET http://play.googleapis.com/generate_204
+时间: 2025-05-28T17:14:15.795825
+
+[HTTP请求] GET http://43.143.112.172:8168/4k/getlist.php?calss=%E5%8A%A8%E6%BC%AB&area=&year=&type=&pg=0
+时间: 2025-05-28T17:14:17.919007
+查询参数: {
+  "calss": "动漫",
+  "area": "",
+  "year": "",
+  "type": "",
+  "pg": "0"
+}
+
+[HTTP请求] GET http://43.143.112.172:8168/4k/getlist.php?calss=%E7%BB%BC%E8%89%BA&area=&year=&type=&pg=0
+时间: 2025-05-28T17:14:52.454319
+查询参数: {
+  "calss": "综艺",
+  "area": "",
+  "year": "",
+  "type": "",
+  "pg": "0"
+}
+[响应] 200 OK
+响应体: [{"id":"898081","title":"亚洲新声","pic":"https:\/\/img9.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921822024.webp","year":"2025","remarks":"1080P"},{"id":"898080","title":"朋友请吃饭 第三季","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921620339.webp","year":"2025","remarks":"1080P"},{"id":"898079","title":"歌手2025","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921000910.jpg","year":"2025","remarks":"1080P"},{"id":"898078","title":"快乐的大人 第二季","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2920026080.jpg","year":"2025","remarks":"1080P"},{"id":"898077","title":"周游记 第三季","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921168990.webp","year":"2025","remarks":"1080P"},{"id":"898076","title":"一见你就笑","pic":"https:\/\/img1.doubanio.com\/view\/photo\/m_ratio_poster\/public\/p2921055018.webp","year":"2025","remarks":"1080P"},{"id":"898075","title":"奔跑吧 第九季","pic":"https:\/\/img3.douban...
+============================================================
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:15:29.834183
+[响应] 204 No Content
+============================================================
+
+[HTTP请求] GET http://play.googleapis.com/generate_204
+时间: 2025-05-28T17:15:32.972623
+
+[HTTP请求] GET http://play.googleapis.com/generate_204
+时间: 2025-05-28T17:16:22.418638
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:16:24.483391

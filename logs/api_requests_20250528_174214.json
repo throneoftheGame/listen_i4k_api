@@ -1,0 +1,244 @@
+[
+  {
+    "request": {
+      "timestamp": "2025-05-28T17:42:22.970365",
+      "method": "GET",
+      "url": "http://43.143.112.172:8168/4k/getlist.php?calss=%E5%8A%A8%E6%BC%AB&area=&year=&type=&pg=0",
+      "scheme": "http",
+      "host": "43.143.112.172",
+      "path": "/4k/getlist.php?calss=%E5%8A%A8%E6%BC%AB&area=&year=&type=&pg=0",
+      "headers": {
+        "Cookie": "",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Android SDK built for x86 Build/QSR1.210802.001)",
+        "Host": "43.143.112.172:8168",
+        "Connection": "Keep-Alive",
+        "Accept-Encoding": "gzip"
+      },
+      "query_params": {
+        "calss": "动漫",
+        "area": "",
+        "year": "",
+        "type": "",
+        "pg": "0"
+      },
+      "body": null,
+      "body_size": 0
+    },
+    "response": {
+      "status_code": 200,
+      "status_text": "OK",
+      "headers": {
+        "Date": "Wed, 28 May 2025 09:42:23 GMT",
+        "Server": "Apache",
+        "Vary": "Accept-Encoding,User-Agent",
+        "Content-Encoding": "gzip",
+        "Keep-Alive": "timeout=5, max=100",
+        "Connection": "Keep-Alive",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "body": "[{\"id\":\"896016\",\"title\":\"奇迹女孩\",\"pic\":\"https:\\/\\/img3.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2915734212.jpg\",\"year\":\"2024\",\"remarks\":\"4K 杜比\"},{\"id\":\"896015\",\"title\":\"瑞克和莫蒂 第八季\",\"pic\":\"https:\\/\\/img1.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2921042009.jpg\",\"year\":\"2025\",\"remarks\":\"1080P\"},{\"id\":\"896014\",\"title\":\"圣诞节的大冒险\",\"pic\":\"https:\\/\\/img1.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2914772970.jpg\",\"year\":\"2024\",\"remarks\":\"1080P\"},{\"id\":\"896013\",\"title\":\"灵笼 第二季\",\"pic\":\"https:\\/\\/img1.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2900568479.webp\",\"year\":\"2025\",\"remarks\":\"4K\"},{\"id\":\"895012\",\"title\":\"万能恋爱杂货店\",\"pic\":\"https:\\/\\/img1.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2900559068.jpg\",\"year\":\"2023\",\"remarks\":\"4K\"},{\"id\":\"895011\",\"title\":\"虫王战队超王者：冒险天堂\",\"pic\":\"https:\\/\\/img1.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2921399598.jpg\",\"year\":\"2023\",\"remarks\":\"4K\"},{\"id\":\"895010\",\"title\":\"外星人沐沐\",\"pic\":\"https:\\/\\/img2.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2918687461.jpg\",\"year\":\"2025\",\"remarks\":\"1080P\"},{\"id\":\"895009\",\"title\":\"全职猎人\",\"pic\":\"https:\\/\\/img9.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2158657076.jpg\",\"year\":\"1999\",\"remarks\":\"4K\"},{\"id\":\"895008\",\"title\":\"前桥魔女\",\"pic\":\"https:\\/\\/img3.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2912671042.webp\",\"year\":\"2025\",\"remarks\":\"1080P\"},{\"id\":\"895007\",\"title\":\"真･武士传 剑勇传说\",\"pic\":\"https:\\/\\/img3.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2918958773.jpg\",\"year\":\"2025\",\"remarks\":\"1080P\"},{\"id\":\"895006\",\"title\":\"好鞋成双\",\"pic\":\"https:\\/\\/img1.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2906737728.jpg\",\"year\":\"2025\",\"remarks\":\"1080P\"},{\"id\":\"895005\",\"title\":\"星球大战：黑市传说\",\"pic\":\"https:\\/\\/img1.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2920151040.jpg\",\"year\":\"2025\",\"remarks\":\"4K 杜比\"},{\"id\":\"895004\",\"title\":\"风物妖厨\",\"pic\":\"https:\\/\\/img3.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2917713487.webp\",\"year\":\"2025\",\"remarks\":\"4K\"},{\"id\":\"895003\",\"title\":\"拳皇命运\",\"pic\":\"https:\\/\\/img2.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2494948751.jpg\",\"year\":\"2017\",\"remarks\":\"4K\"},{\"id\":\"895002\",\"title\":\"星际宝贝\",\"pic\":\"https:\\/\\/img3.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2510798502.jpg\",\"year\":\"2002\",\"remarks\":\"4K\"},{\"id\":\"895001\",\"title\":\"荒神录之玲珑山\",\"pic\":\"https:\\/\\/img9.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2920180144.jpg\",\"year\":\"2025\",\"remarks\":\"4K\"},{\"id\":\"895000\",\"title\":\"高卢英雄：首领争夺战\",\"pic\":\"https:\\/\\/img9.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2921034425.jpg\",\"year\":\"2025\",\"remarks\":\"1080P\"},{\"id\":\"894770\",\"title\":\"凡尔赛玫瑰\",\"pic\":\"https:\\/\\/img3.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2920047947.jpg\",\"year\":\"2025\",\"remarks\":\"1080P\"},{\"id\":\"894769\",\"title\":\"正义联盟：亚特兰蒂斯的宝座\",\"pic\":\"https:\\/\\/img2.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2246141431.jpg\",\"year\":\"2015\",\"remarks\":\"4K\"},{\"id\":\"894768\",\"title\":\"鲲吞天下之掌门归来\",\"pic\":\"https:\\/\\/img3.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2916595453.jpg\",\"year\":\"2025\",\"remarks\":\"4K\"}]",
+      "body_size": 3367,
+      "response_time": null
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2025-05-28T17:42:31.799704",
+      "method": "GET",
+      "url": "http://43.143.112.172:8168/4k/getinfo.php?id=896013",
+      "scheme": "http",
+      "host": "43.143.112.172",
+      "path": "/4k/getinfo.php?id=896013",
+      "headers": {
+        "Cookie": "",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Android SDK built for x86 Build/QSR1.210802.001)",
+        "Host": "43.143.112.172:8168",
+        "Connection": "Keep-Alive",
+        "Accept-Encoding": "gzip"
+      },
+      "query_params": {
+        "id": "896013"
+      },
+      "body": null,
+      "body_size": 0
+    },
+    "response": {
+      "status_code": 200,
+      "status_text": "OK",
+      "headers": {
+        "Date": "Wed, 28 May 2025 09:42:32 GMT",
+        "Server": "Apache",
+        "Vary": "Accept-Encoding,User-Agent",
+        "Content-Encoding": "gzip",
+        "Keep-Alive": "timeout=5, max=100",
+        "Connection": "Keep-Alive",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "body": "[{\"id\":\"896013\",\"title\":\"灵笼 第二季\",\"pic\":\"https:\\/\\/img1.doubanio.com\\/view\\/photo\\/m_ratio_poster\\/public\\/p2900568479.webp\",\"calss\":\"动漫\",\"area\":\"内地\",\"year\":\"2025\",\"type\":\"动作 科幻 动画 \",\"actor\":\"夏一可 图特哈蒙 藤新 季冠霖 \",\"plot\":\"    数百年前，欲望催生了几乎灭绝人类的玛娜生态。人类瞬间沦为猎物，文明毁灭殆尽，末日中猜忌和恐惧拉开了人与人之间的距离。灾难当前，人们逐渐意识到：情感——这个被灯塔视为禁忌的存在，如今成为突破一切障碍、构建命运共同体的最强纽带。已被逼至绝境的幸存者们能否重夺未来?\",\"remarks\":\"4K\",\"pinyin\":\"lldej\"}]",
+      "body_size": 698,
+      "response_time": null
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2025-05-28T17:42:31.940371",
+      "method": "GET",
+      "url": "http://43.143.112.172:8168/aliyun/getlist.php?uid=yutian&ukey=lei072095&id=896013&fileid=null&marker=null&token=null&from=",
+      "scheme": "http",
+      "host": "43.143.112.172",
+      "path": "/aliyun/getlist.php?uid=yutian&ukey=lei072095&id=896013&fileid=null&marker=null&token=null&from=",
+      "headers": {
+        "Cookie": "",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Android SDK built for x86 Build/QSR1.210802.001)",
+        "Host": "43.143.112.172:8168",
+        "Connection": "Keep-Alive",
+        "Accept-Encoding": "gzip"
+      },
+      "query_params": {
+        "uid": "yutian",
+        "ukey": "lei072095",
+        "id": "896013",
+        "fileid": "null",
+        "marker": "null",
+        "token": "null",
+        "from": ""
+      },
+      "body": null,
+      "body_size": 0
+    },
+    "response": {
+      "status_code": 200,
+      "status_text": "OK",
+      "headers": {
+        "Date": "Wed, 28 May 2025 09:42:32 GMT",
+        "Server": "Apache",
+        "Vary": "Accept-Encoding,User-Agent",
+        "Content-Encoding": "gzip",
+        "Keep-Alive": "timeout=5, max=99",
+        "Connection": "Keep-Alive",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "body": "{\"from\":\"aliyun\",\"total\":5,\"fileid\":\"671312344b6ca6f34b7741c4b441aa9d7fe288ca\",\"marker\":\"null\",\"token\":\"1fcbea5fbfd6d1e9342804c943fe43c3fe95779fb611af21951f00ad7beffbe931d87d22b23cac7872ef9b043d68d56ff54559ff2946628a2f4006e97025c544f976d128c7a6ba369b12ea3a78621312e951c5b52a55a13770d2a99cb42daf7ca45788c090bdf192f403f6455d13d42dc7f2c4eeeb7b243b902848ec68e5438aed19d99e7d2cb0b59f51044ea181db9825832181fa3f341de35a859409c613994a50292099f18c6dd0f10df5b1f4defd0d7b264fa3d34e5bf05c4898001b24a5a53d77da3a456a880fba0878f6381cbcc33adeb7d19c3a622686a5c6536c20ab89558a10503eb239b2a5fd9af5e733f5a805b8321e325d92cb102e85e911c169c4d69e79265117e6e5f588bd5db4c498474af6046f17b092ac13f807f3b8dc1358f432c3f82aede74017a4aac4a76c52adb3cf2ab0584d6f591c7669a0f00e5fbdabaff779f4e8cd73b182c3bdb691924283611183f6fdc4c9ac269a216033f65eac97607668a9c83e550c9f77005df2352483467eb64aafd19055250075d58682ae1b067b7bcd74f79887687f829c6a08fcadbd7fbb80e6e60d97cb544bbc9f6d7e1fb80f229a8032e09c3f5847d28d7c6610aa2cb82d3a4f28e1a275a06b532df1e4cb4190aba3385ba066a2c4a9f06239db238ef119e7166678eb6c518ff7925c06\",\"list\":[{\"share_id\":\"11dfcd7285c2e6ea3f7934\",\"drive_id\":\"4d809302eea081b1\",\"file_id\":\"682fe8c6eb5423457cf449fd9af4c5ec998d4f91\",\"name\":\"S01\",\"type\":null},{\"share_id\":\"11dfcd7285c2e6ea3f7934\",\"drive_id\":\"4d809302eea081b1\",\"file_id\":\"671312482f687ace88fe47bc972c37df4d4f5389\",\"name\":\"\\u5173\\u6ce8\\u516c\\u4f17\\u53f7\\uff1a\\u4f18\\u6e90\\u9601 \\u5b9e\\u65f6\\u540c\\u6b65\\u66f4\\u65b0\\u4f18\\u54c1\\u8d44\\u6e90\",\"type\":null},{\"share_id\":\"11dfcd7285c2e6ea3f7934\",\"drive_id\":\"4d809302eea081b1\",\"file_id\":\"68300798e5be5ee8185e45deb1231aa66e92cd28\",\"name\":\"\\u524d\\u77bb\",\"type\":null},{\"share_id\":\"11dfcd7285c2e6ea3f7934\",\"drive_id\":\"4d809302eea081b1\",\"file_id\":\"682fecbc3470c2fa3ef5494fab209dc62de5ae3d\",\"name\":\"S02E01.2025.2160p.WEB-DL.H265.AAC.mp4\",\"type\":\"mp4\"},{\"share_id\":\"11dfcd7285c2e6ea3f7934\",\"drive_id\":\"4d809302eea081b1\",\"file_id\":\"682fecd3ded17069bdd24354ac233070b7de2698\",\"name\":\"S02E02.2025.2160p.WEB-DL.H265.AAC.mp4\",\"type\":\"mp4\"}]}",
+      "body_size": 2002,
+      "response_time": null
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2025-05-28T17:42:34.878187",
+      "method": "GET",
+      "url": "http://43.143.112.172:8168/aliyun/api.php?from=xiaobai&uid=yutian&ukey=lei072095&type=0&share_id=11dfcd7285c2e6ea3f7934&file_id=682fecd3ded17069bdd24354ac233070b7de2698&drive_id=4d809302eea081b1&appid=1020240302",
+      "scheme": "http",
+      "host": "43.143.112.172",
+      "path": "/aliyun/api.php?from=xiaobai&uid=yutian&ukey=lei072095&type=0&share_id=11dfcd7285c2e6ea3f7934&file_id=682fecd3ded17069bdd24354ac233070b7de2698&drive_id=4d809302eea081b1&appid=1020240302",
+      "headers": {
+        "Cookie": "",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Android SDK built for x86 Build/QSR1.210802.001)",
+        "Host": "43.143.112.172:8168",
+        "Connection": "Keep-Alive",
+        "Accept-Encoding": "gzip"
+      },
+      "query_params": {
+        "from": "xiaobai",
+        "uid": "yutian",
+        "ukey": "lei072095",
+        "type": "0",
+        "share_id": "11dfcd7285c2e6ea3f7934",
+        "file_id": "682fecd3ded17069bdd24354ac233070b7de2698",
+        "drive_id": "4d809302eea081b1",
+        "appid": "1020240302"
+      },
+      "body": null,
+      "body_size": 0
+    },
+    "response": {
+      "status_code": 200,
+      "status_text": "OK",
+      "headers": {
+        "Date": "Wed, 28 May 2025 09:42:35 GMT",
+        "Server": "Apache",
+        "Vary": "Accept-Encoding,User-Agent",
+        "Content-Encoding": "gzip",
+        "Keep-Alive": "timeout=5, max=98",
+        "Connection": "Keep-Alive",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "body": "{\"type\":\"0\",\"url\":\"https:\\/\\/cn-beijing-data.aliyundrive.net\\/6ITDXu7j%2F889036%2F682febc9797214ea4d5a4988a809fbd2ab923f6d%2F682febc92901f78e9e9b4c4f81169ba37f9e2085?callback=eyJjYWxsYmFja1VybCI6Imh0dHA6Ly9iajI5LmFwaS1ocC5hbGl5dW5wZHMuY29tL3YyL2ZpbGUvZG93bmxvYWRfY2FsbGJhY2siLCJjYWxsYmFja0JvZHkiOiJodHRwSGVhZGVyLnJhbmdlPSR7aHR0cEhlYWRlci5yYW5nZX1cdTAwMjZidWNrZXQ9JHtidWNrZXR9XHUwMDI2b2JqZWN0PSR7b2JqZWN0fVx1MDAyNmRvbWFpbl9pZD0ke3g6ZG9tYWluX2lkfVx1MDAyNnVzZXJfaWQ9JHt4OnVzZXJfaWR9XHUwMDI2ZHJpdmVfaWQ9JHt4OmRyaXZlX2lkfVx1MDAyNmZpbGVfaWQ9JHt4OmZpbGVfaWR9XHUwMDI2cGRzX3BhcmFtcz0ke3g6cGRzX3BhcmFtc31cdTAwMjZ2ZXJzaW9uPSR7eDp2ZXJzaW9ufSIsImNhbGxiYWNrQm9keVR5cGUiOiJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiLCJjYWxsYmFja1N0YWdlIjoiYmVmb3JlLWV4ZWN1dGUiLCJjYWxsYmFja0ZhaWx1cmVBY3Rpb24iOiJpZ25vcmUifQ%3D%3D&callback-var=eyJ4OmRvbWFpbl9pZCI6ImJqMjkiLCJ4OnVzZXJfaWQiOiJkZTc2ZDE4ODQzM2U0MThjOWY3NWJkNDk4YWE3YWRjNiIsIng6ZHJpdmVfaWQiOiI3ODI1NTY2IiwieDpmaWxlX2lkIjoiNjgzNmRhOGJlMTEzMjIyZWQ2NmY0OWRkYjFiMDQyOWYyMmNlNGUwNyIsIng6cGRzX3BhcmFtcyI6IntcImFwXCI6XCJwSlpJbk5ITjJkWldrOHFnXCJ9IiwieDp2ZXJzaW9uIjoidjMifQ%3D%3D&di=bj29&dr=7825566&f=6836da8be113222ed66f49ddb1b0429f22ce4e07&pds-params=%7B%22ap%22%3A%22pJZInNHN2dZWk8qg%22%7D&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27S02E02.2025.2160p.WEB-DL.H265.AAC.mp4&security-token=CAISvgJ1q6Ft5B2yfSjIr5TdfvLii7py%2FfuhdV7ZilI2Tb5Pl4LpmDz2IHhMf3NpBOkZvvQ1lGlU6%2Fcalq5rR4QAXlDfNVaXWBXOq1HPWZHInuDox55m4cTXNAr%2BIhr%2F29CoEIedZdjBe%2FCrRknZnytou9XTfimjWFrXWv%2Fgy%2BQQDLItUxK%2FcCBNCfpPOwJms7V6D3bKMuu3OROY6Qi5TmgQ41Uh1jgjtPzkkpfFtkGF1GeXkLFF%2B97DRbG%2FdNRpMZtFVNO44fd7bKKp0lQLs0ARrv4r1fMUqW2X543AUgFLhy2KKMPY99xpFgh9a7j0iCbSGyUu%2FhcRm5sw9%2Byfo34lVYnew7ZM1wJH7uHwufJ7FxfIREfquk63pvSlHLcLPe0Kjzzleo2k1XRPVFF%2B535IaHXuToXDnvSiDAfmyfXtuMkagAGFEnNqbGjZfeVRZyhkSdgYw8rtNPsG7%2FjASILRaRFpbdBLAEykfOB%2F4I2p7xRbXvd56%2BcAgB%2FtZ3zMIfRkJEXxh22JqYEKso8TYkPiX8FqiWe25C2wjZMVqyE140mlJbyOqV39xjQmd9LmEf1o%2FQMwts5L05jK2gt0W1P%2BmZewICAA&u=de76d188433e418c9f75bd498aa7adc6&x-oss-access-key-id=STS.NWh5HVfeSJ9JwxhnRcA1cxGBz&x-oss-expires=1748540555&x-oss-signature=DIoMiO3K1XVPYEHt8QZU%2FBdkVpZf7%2B1g%2BJeQbCeswOU%3D&x-oss-signature-version=OSS2\",\"referer\":\"https:\\/\\/www.aliyundrive.com\\/\",\"language\":\"null\",\"subtitle\":\"null\",\"delfile\":204,\"delecopy\":true}",
+      "body_size": 2304,
+      "response_time": null
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2025-05-28T17:42:49.437546",
+      "method": "GET",
+      "url": "http://connectivitycheck.gstatic.com/generate_204",
+      "scheme": "http",
+      "host": "connectivitycheck.gstatic.com",
+      "path": "/generate_204",
+      "headers": {
+        "Connection": "close",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36",
+        "Host": "connectivitycheck.gstatic.com",
+        "Accept-Encoding": "gzip"
+      },
+      "query_params": {},
+      "body": null,
+      "body_size": 0
+    },
+    "response": {
+      "status_code": 204,
+      "status_text": "No Content",
+      "headers": {
+        "Content-Length": "0",
+        "Cross-Origin-Resource-Policy": "cross-origin",
+        "Date": "Wed, 28 May 2025 09:42:50 GMT",
+        "Connection": "close"
+      },
+      "body": null,
+      "body_size": 0,
+      "response_time": null
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2025-05-28T17:42:50.283550",
+      "method": "GET",
+      "url": "http://www.google.com/gen_204",
+      "scheme": "http",
+      "host": "www.google.com",
+      "path": "/gen_204",
+      "headers": {
+        "Connection": "close",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36",
+        "Host": "www.google.com",
+        "Accept-Encoding": "gzip"
+      },
+      "query_params": {},
+      "body": null,
+      "body_size": 0
+    },
+    "response": {
+      "status_code": 204,
+      "status_text": "No Content",
+      "headers": {
+        "Content-Type": "text/html; charset=UTF-8",
+        "Content-Security-Policy": "object-src 'none';base-uri 'self';script-src 'nonce-_Mv3Zcn-7cvLz7ZAv4WJ9A' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other",
+        "Permissions-Policy": "unload=()",
+        "Date": "Wed, 28 May 2025 09:42:51 GMT",
+        "Server": "gws",
+        "Content-Length": "0",
+        "X-XSS-Protection": "0",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Connection": "close"
+      },
+      "body": null,
+      "body_size": 0,
+      "response_time": null
+    }
+  }
+]

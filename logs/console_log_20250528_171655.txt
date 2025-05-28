@@ -1,0 +1,8 @@
+
+[HTTP请求] GET http://connectivitycheck.gstatic.com/generate_204
+时间: 2025-05-28T17:16:56.322235
+
+[HTTP请求] GET http://www.google.com/gen_204
+时间: 2025-05-28T17:16:59.315971
+[响应] 204 No Content
+============================================================
